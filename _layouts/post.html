@@ -4,8 +4,7 @@ layout: default
 
 <article>
   {% include meta.html post=page %}
-  {% include share.html %}
-  {{ content }}
+    {{ content }}
   <div id="disqus_thread"></div>
 <script>
     /**
@@ -31,4 +30,5 @@ layout: default
     {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
     <noscript>Please enable JavaScript to view comments.</noscript>
   {% endif %}
+  {% include share.html %}
 </article>
