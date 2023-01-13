@@ -3,7 +3,7 @@ title: "Mis Poemas y otras cosas"
 layout: post
 ---
 
-Untitled
+
 Primero el corazón debe sanar
 Para después volver a equivocarse y lastimarlo infinitas veces
 Hasta que esas infinitas veces den sus frutos
@@ -31,8 +31,10 @@ o yo
 o nadie
 o todos
 
+E-.
 
-Amoríos
+
+
 Después de hacer el amor con vos
 Llegué al estadio de perfección zen
 Luego me quedé dormido
@@ -91,7 +93,7 @@ Detrás de tu espejo.
 E-.
 
 
-Likes
+
 No puedo vivir sin tus likes
 Sin que me sigas
 Sin que me leas
@@ -123,7 +125,7 @@ Que nunca lloré.
 E-.
 
 
-La mujer que amo
+
 a la mujer que amo no la conozco
 pero sé que es un ser sensible y tiene convicciones fuertes
 entre otras cosas por eso la amo
@@ -135,8 +137,10 @@ porque sencillamente es la persona por la quien dejaría todo
 por otro todo
 aún más todo.
 
+E-.
 
-quizás
+
+
 No puedo escudriñar tus sueños y anhelos
 Pero sé que algo de eso escribís
 En esos poemas que me dejan ebrio
@@ -146,9 +150,9 @@ De la distancia
 Ebrio de amarte en cada letra
 Detrás del aroma del quizás.
 
-Published 2022/08/31Editquizás
-Categorized as General
-suspiro
+E-.
+
+
 Quiero que me convides del agua bendita que brota del mar
 Quiero sentir el temblor en los pies de la madre tierra
 Deseo saborear la miel de los ojos de la luna
@@ -157,8 +161,10 @@ Afiebrado ya de escribir sin esperar nada
 Bajo la mirada
 Y me trago mis suspiros.
 
+E-.
 
-escribe un título
+
+
 no puedo creer lo que me pasa
 
 pasa que desde que te conocí
@@ -187,9 +193,9 @@ sin palpitaciones ni mariposas en el estómago
 
 que me aclaren que estoy vivo.
 
-Published 2022/08/28Editescribe un título
-Categorized as General
-destino.
+E-.
+
+
 me desanimo y me entrego al destino
 
 -si es que existe tal cosa-
@@ -203,7 +209,9 @@ no soy yo
 no es nadie.
 
 
-Un cigarro.
+E-.
+
+
 Me prendo un cigarro para saborear tu ausencia
 
 dejo de lado los anhelos y sueños
@@ -233,8 +241,10 @@ Tal vez lo gris de mi vida sean tus tacos
 sonando en eco por los pasillos que nunca habitaré.
 
 
+E-.
 
-Untitled
+
+
  en esta noche voy a evocarte
 
 aunque estés lejos
@@ -247,9 +257,10 @@ esta noche voy a evocarte
 
 para hacer despiadada mi desolación.
 
-Published 2022/08/14EditUntitled
-Categorized as Sin categoría
-Untitled
+E-.
+
+
+
  comprendo que no me quieras
 
 ni quieras saber nada de mí
@@ -264,9 +275,11 @@ dejame sonreír como un loco por cosas que no existen
 
 dame la felicidad de los tontos.
 
-Published 2022/08/14EditUntitled
-Categorized as Sin categoría
-Untitled
+
+E-.
+
+
+
  Quisiera ser el sentir de tus suspiros
 
 quisiera ser tus ojos brillosos
@@ -277,19 +290,13 @@ el amor de tu vida
 
 o el cálido anochecer bajo el aroma de este poema
 
-Published 2022/08/14EditUntitled
-Categorized as Sin categoría
-Untitled
- puedo escribir durante horas y horas
 
-pero sería en vano
-
-porque en este salitre no hay almejas
+E-.
 
 
-Música
-[youtube https://www.youtube.com/watch?v=YmD7e_s-3-o]
-[youtube https://www.youtube.com/watch?v=5wwhkhT_wEs]
+
+
+
 
 Di algo breve
 
@@ -300,7 +307,9 @@ como la menstruación de tus ojos
 Di algo breve
 
 
-Untitled
+E-.
+
+
  Tus labios
 
 tu cuello que revela repetidos mordiscos
@@ -324,8 +333,11 @@ es muy raro que leas estas líneas así como también son raros los pulsos del c
 que me llevan siempre hacia ti.
 
 
+E-.
 
-tonto
+
+
+
 Yo no me hago el tonto, soy tonto
 
 Soy tonto por amar a pesar de las distancias
@@ -344,7 +356,11 @@ Un tonto que no deja de creer que el amor
 
 Vence cualquier distancia.
 
-Untitled
+E-.
+
+
+
+
 Digo tu nombre y mi boca estalla
 
 en sueños en alegrías en algo ideal
@@ -367,17 +383,12 @@ junto a mis manos sangrantes
 
 que estallan por darte un abrazo
 
- 
+E-.
 
-Published 2021/12/06EditUntitled
-Categorized as Sin categoría
-Untitled
-[youtube https://www.youtube.com/watch?v=dUuJDv4VdYA]
- 
 
-Published 2021/12/03EditUntitled
-Categorized as Sin categoría
-el suelo se está moviendo.
+
+
+
 Las veces que soñé con nuestro encuentro
 
 pero vos estás lejísimos como lo estuviste siempre para mí
@@ -423,15 +434,4 @@ es puro aroma a poema.
  
 
 E-.
-
-Published 2021/12/01Editel suelo se está moviendo.
-Categorized as Sin categoría
-Miley Cyrus
-[youtube https://www.youtube.com/watch?v=kwJSTcvhq8c]
- 
-
-[youtube https://www.youtube.com/watch?v=AxZl2cFvjRs]
-[youtube https://www.youtube.com/watch?v=hBmSS8fDmek]
-Published 2021/11/30EditMiley Cyrus
-Categorized as Sin categoría
 
