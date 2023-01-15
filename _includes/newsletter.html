@@ -1,15 +1,19 @@
-<form action="<form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">" method="<form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">">
-    <li class="contact-li">
-        <input type="email" placeholder="Your email" id="email"/>
-        <input type="submit" value="Subscribe" id="submit"/>
-    </li>
-</form>
+<div class="signup-cta">
 
-<form action="<form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">" method="<form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-    <li class="contact-li">
-        <input type="email" placeholder="Your email" id="email"/>
-        <input type="submit" value="Subscribe" id="submit"/>
-    </li>
+  <h2>{{ page.cta.title }}</h2>
+  <p>{{ page.cta.body }}</p>
 
-  
+  <form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">
+    <input id="name" placeholder="First name">
+    <input type="email" placeholder="Email address">
+    <button type="submit">{{ page.cta.button }}</button>
+  </form>
+
+</div>
+
+ ---
+cta:
+    title: "E-. newsletter"
+    body: "Like this blog post? Sign up to receive more content like this, delivered straight to your inbox ❤️."
+    button: "Sign me up!"
+--- 
