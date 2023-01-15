@@ -1,19 +1,5 @@
-<div class="signup-cta">
-
-  <h2>{{ page.cta.title }}</h2>
-  <p>{{ page.cta.body }}</p>
-
-  <form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">
-    <input id="name" placeholder="First name">
-    <input type="email" placeholder="Email address">
-    <button type="submit">{{ page.cta.button }}</button>
-  </form>
-
-</div>
-
- ---
-cta:
-    title: "E-. newsletter"
-    body: "Like this blog post? Sign up to receive more content like this, delivered straight to your inbox ❤️."
-    button: "Sign me up!"
---- 
+<form id="contactform" action="<form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">" method="<form method="post" action="https://weightless.so/api/lists/8nywxxwt/subscribe">">    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="_replyto" placeholder="Your email">
+    <textarea name="message" placeholder="❤️"></textarea>
+    <input type="submit" value="Send">
+</form>
